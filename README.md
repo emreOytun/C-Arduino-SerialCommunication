@@ -1,7 +1,7 @@
 # C-Arduino-Serial-Communication
 In this project, user gets Arduino do some tasks provided in menu. 
 
-The objective of this project is to learn how to make a serial communication with devices such as Arduino and C. 
+The objective of this project is to learn how to make a serial communication with devices such as Arduino and computer(C).
 
 # Technical Issue about Getting Output :
 
