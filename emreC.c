@@ -159,7 +159,7 @@ int main(){
 	 		int trigger = -1; // Trigger system to understand Arduino has finished calculations
 	 		do{
 	 			char status[1];
-	 		trigger = serialport_read_until(port,status,EofCharacter,1,200);
+	 			trigger = serialport_read_until(port,status,EofCharacter,1,200);
 	 		}while( trigger<0 );
 	 		
 	 		char buf[20];
